@@ -1,6 +1,6 @@
-# Phanee Rocket Landing Simulation 🚀
+# Rocket Landing Simulation 🚀
 
-An interactive web-based simulation of vertical rocket landing, inspired by modern reusable rockets. The simulation demonstrates the complex physics and control systems involved in landing a rocket vertically.
+An interactive web-based simulation of rocket landing, inspired by modern reusable rockets. The simulation demonstrates the complex physics and control systems involved in landing a rocket vertically.
 
 ## Features
 
@@ -13,18 +13,12 @@ An interactive web-based simulation of vertical rocket landing, inspired by mode
 - 🦿 Landing leg animation
 - 🔥 Dynamic engine effects
 
-## Prerequisites
-
-Before you begin, ensure you have the following installed:
-- Node.js (version 14.0 or higher)
-- npm (usually comes with Node.js)
-
 ## Installation
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/phanee-rocket-sim.git
-cd phanee-rocket-sim
+git clone https://github.com/PhaneeChowdary/RocketSimulation.git
+cd RocketSimulation-master
 ```
 
 2. Install dependencies
